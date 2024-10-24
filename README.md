@@ -10,4 +10,4 @@ Welcome to my personal portfolio where I showcase my skills and experience in op
 - **Publications:** Recent papers I've authored or co-authored.
 - **Contact:** How to get in touch with me.
 
-View the live portfolio at: [Rakesh Joshi's Portfolio](https://raj.github.io).
+View the live portfolio at: [Rakesh Joshi's Portfolio](https://rakauconn.github.io/raj.github.io/)).
