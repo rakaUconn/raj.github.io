@@ -1,13 +1,49 @@
-# raj.github.io
 # Rakesh Joshi's Portfolio
 
-Welcome to my personal portfolio where I showcase my skills and experience in optical engineering, machine learning, and biomedical imaging.
+This is the portfolio project for Rakesh Joshi, showcasing his skills, education, experience, and projects.
 
-## Sections
+## Project Structure
 
-- **Skills:** Overview of my technical abilities.
-- **Experience:** Summary of my academic and professional background.
-- **Publications:** Recent papers I've authored or co-authored.
-- **Contact:** How to get in touch with me.
+```
+rakesh-joshi-portfolio
+├── src
+│   ├── index.html        # Main HTML structure for the portfolio
+│   ├── styles
+│   │   └── style.css     # CSS styles for the portfolio
+│   └── scripts
+│       └── main.js       # JavaScript functionality for the portfolio
+├── .gitignore            # Specifies files to be ignored by Git
+└── README.md             # Documentation for the project
+```
 
-View the live portfolio at: [Rakesh Joshi's Portfolio](https://rakauconn.github.io/raj.github.io/)).
+## Features
+
+- **About Section**: Information about Rakesh Joshi.
+- **Education Section**: Details of educational background.
+- **Skills Section**: List of technical skills.
+- **Projects Section**: Showcase of projects completed.
+- **Publications Section**: List of publications authored.
+- **Experience Section**: Work experience details.
+- **Contact Section**: Contact information and form.
+
+## Setup Instructions
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/rakesh-joshi-portfolio.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd rakesh-joshi-portfolio
+   ```
+
+3. Open the `src/index.html` file in a web browser to view the portfolio.
+
+## Contributing
+
+Feel free to fork the repository and submit pull requests for any improvements or suggestions.
+
+## License
+
+This project is open-source and available under the MIT License.
