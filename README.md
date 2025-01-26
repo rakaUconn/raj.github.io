@@ -38,7 +38,7 @@ rakesh-joshi-portfolio
    cd rakesh-joshi-portfolio
    ```
 
-3. Open the `src/index.html` file in a web browser to view the portfolio.
+3. Open the `https://rakauconn.github.io/raj.github.io` file in a web browser to view the portfolio.
 
 ## Contributing
 
